@@ -22,6 +22,7 @@ function Banner() {
     return (
         <header className="banner"
             style={{
+                maxHeight: "100%",
                 backgroundImage: `url("https://image.tmdb.org/t/p/original/${movie?.backdrop_path}")`,
                 backgroundSize: "cover",
                 backgroundPosition: "center center",
