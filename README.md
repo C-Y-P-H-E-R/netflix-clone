@@ -1,3 +1,7 @@
+<img src="	https://ksworks.netlify.app/images/Nflix.png" height="600px" style="object-fit: cover" />
+
+`Do Not forget to Try out movie trailers`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
