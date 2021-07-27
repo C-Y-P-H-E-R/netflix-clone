@@ -1,6 +1,6 @@
-<img src="https://ksworks.netlify.app/images/Nflix.png" height="600px" width="1000px" />
+<img src="https://ksworks.netlify.app/images/Nflix.png" height="600px" style="object-fit : cover" />
 
-`Do Not forget to Try out movie trailers`
+### `Do Not forget to Try out movie trailers`
 
 # Getting Started with Create React App
 
