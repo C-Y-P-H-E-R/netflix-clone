@@ -1,4 +1,4 @@
-<img src="	https://ksworks.netlify.app/images/Nflix.png" height="600px" style="object-fit: cover" />
+<img src="https://ksworks.netlify.app/images/Nflix.png" height="600px" width="1000px" />
 
 `Do Not forget to Try out movie trailers`
 
